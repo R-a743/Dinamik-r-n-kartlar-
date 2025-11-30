@@ -1,0 +1,1 @@
+# Dinamik-r-n-kartlar-
