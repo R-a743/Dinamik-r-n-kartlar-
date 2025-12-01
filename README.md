@@ -84,3 +84,7 @@ Projede önceden tanımlanmış 10 ürün bulunmaktadır:
 
 ## 🔹 Dosya Yapısı
 
+index.html
+app.js
+style.css
+
